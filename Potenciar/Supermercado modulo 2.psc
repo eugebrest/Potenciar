@@ -1,0 +1,11 @@
+Algoritmo Supermercado
+	Definir precio, cantidad Como Real
+	
+FinAlgoritmo
+
+//Unsupermercadopusoenofertalaventaalpormayordeciertoproducto,ofreciendoundescuentodel15%
+//porlacomprademásde3docenasy10%encasocontrario.Ademásporlacomprademásde
+//3docenasseobsequiaunaunidaddelproductoporcadadocenaenexcesosobre3.Diseña
+//unalgoritmoquedetermineelmontodelacompra,elmontodeldescuento,elmontoapagar
+//yelnúmerodeunidadesdeobsequioporlacompradeciertacantidaddedocenasdelproducto.
+//Paraellodeberásolicitarpreciodeunadocenaycantidaddedocenascompradas.¿Algomás?
